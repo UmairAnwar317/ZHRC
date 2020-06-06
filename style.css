@@ -1,0 +1,194 @@
+.topbar{
+text-align: center;
+background-color: rgb(169, 223, 198);
+padding-top: 10px;
+padding-bottom: 1px;
+color: black;
+}
+.intro-line{
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;
+    color: #00203FFF;
+
+}
+.intro-line:first-letter{
+    font-size: 36px;
+}
+ 
+.call-us{
+    font-style: italic;
+    font-size: 13px;
+    font-weight: normal;
+}
+.fa-mobile-phone, .fa-envelope-o {
+     margin-top: 3px;
+     margin-left: 2px;
+     margin-right: 3px;
+     color: green;
+
+
+}
+ 
+.contact{
+    font-weight: bold;
+}
+.fa-facebook, .fa-instagram, .fa-twitter, .fa-pinterest, .fa-linkedin, .fa-whatsapp{
+    color: green ;
+    margin-top: 10px;
+}
+.fa-facebook:hover, .fa-instagram:hover, .fa-twitter:hover, .fa-pinterest:hover, .fa-linkedin:hover, .fa-whatsapp:hover{
+    background-color: rgba(9, 48, 85, 0.192);
+
+}
+.navbar{
+    background-color: #00203FFF !important;
+    padding-bottom: 0%;
+    padding-top: 5px;
+}
+
+.nav-link{
+    color: rgb(169, 223, 198) !important;
+} 
+
+.navbar a {
+    margin-right: 20px;
+    
+    
+}
+.collapse a:hover{
+    background-color: green;
+    padding: 3%;
+}
+.Dr{
+    width: 300px;
+    margin: 10px;
+    border: 5px solid #00203FFF;
+    border-radius: 50%;
+    padding-top: 13px;
+    padding-right: 5px;
+    padding-left: 10px;
+    background: rgb(3, 77, 3);
+}
+.vision{
+    margin-top: 30px;
+    display: inline-block;
+    color: rgb(19, 51, 19);
+    text-shadow: 5px 3px 15px green;
+}
+.large{
+    font-size: 72px;
+    letter-spacing: -0.5rem;
+
+}
+.fa-eye{
+  color: rgb(122, 122, 17);
+  margin-left: 60px;
+
+}
+.my-vision{
+    margin-top: 20px;
+    margin-left: 80px;
+    color: rgb(1, 80, 160);
+    font-size: 24px;
+    text-shadow: 5px 3px 15px rgb(28, 4, 82);
+    font-family: 'Architects Daughter', cursive;
+    text-align: justify;
+    word-spacing: -1px;
+
+}
+.fa-map-marker{
+    color: red;
+}
+.Map{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+.map2{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.map-map{
+    
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.contect{
+    background-color: rgb(59, 58, 58);
+    margin-top: 40px;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+}
+.meet-us{
+    text-decoration:underline green;
+    font-size: 40px;
+}
+.widgets{
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 50px;
+    padding: 30px;
+}
+.footer{
+    text-align: center;
+    background-color: rgba(53, 86, 99, 0.747);
+}
+.homeopathy{
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+}
+.comp{
+    margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+    text-align: justify;
+    font-size: 20px;
+
+}
+.detail{
+    text-align: center;
+  
+}
+.ab{
+    margin-top:30px ;
+    margin-right: 50px;
+    margin-left: 10px;
+    padding: 20px;
+    background-color: rgb(5, 78, 5);
+}
+.abc{
+    margin-top:30px ;
+    margin-right: 50px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: rgb(5, 78, 5);
+}
+.abcd{
+    margin-top:30px ;
+    margin-right: 50px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: rgb(5, 78, 5);
+    
+}
+.go-to-top{
+    color:white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: rgb(57, 61, 61);
+
+    text-decoration: none;
+    text-align: center;
+    font-size: 50px;
+    line-height: 20px;
+}
